@@ -1,0 +1,29 @@
+.background-img {
+    width: 600px;
+    height: auto;
+
+}
+
+.game-intro {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/*body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}*/
+
+/*#game-board {
+    position: absolute;
+}
+
+#game-board > div {
+    display: flex;
+    position: relative;
+
+
+}*/

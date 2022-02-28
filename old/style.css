@@ -1,0 +1,17 @@
+.background-img {
+    width: 600px;
+    height: auto;
+
+}
+
+.game-intro {
+    display: flex;
+    flex-direction: column;
+}
+
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
